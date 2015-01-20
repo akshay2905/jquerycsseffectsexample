@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link {color:#FFF ;}      /* unvisited link */
+a:visited {color:#FFF;}  /* visited link */
+a:hover {color:#FFFFFF;
+text-shadow:0.7px 0.7px #FFF;
+text-shadow:-0.7px -0.7px #FFF;
+font-size-adjust:15px;}  /* mouse over link */
+a:active {color:#FFFFFF;}  /* selected link */
+
+
+
+footer{
+	display: block;
+}
+footer{
+	font:14px/1.3 'Segoe UI',Arial, sans-serif;
+	background-color: #111111;
+	bottom: 0;
+	box-shadow: 0 -1px 2px #111111;
+	height: 45px;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 100000;
+}
+
+footer h2{
+	color: #EEEEEE;
+	font-size: 14px;
+	font-weight: normal;
+	left: 50%;
+	margin-left: -400px;
+	padding: 13px 0 0;
+	position: absolute;
+	width: 1105px;
+}
+
+
+footer h2 i{
+	font-style:normal;
+	color:#888;
+}
+footer h2 b span{
+	text-shadow:3px #FFFFFF;
+	transition-property:text-shadow;
+	transition-duration:1s;
+	transition:ease-in;
+}
+footer h2 b span:hover
+{
+	text-shadow:3px #FFF;
+}
+footer a #flink
+{
+	color:#FFF;
+}
+
+#rightcr
+{
+	text-align:right;
+	margin-left:400px;
+}

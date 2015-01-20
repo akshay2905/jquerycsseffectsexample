@@ -1,0 +1,131 @@
+body{
+		font:14px/1.3 'Segoe UI',Arial, sans-serif;
+		
+}
+
+a:link {color: ;}      /* unvisited link */
+a:visited {color:#FFF;}  /* visited link */
+a:hover {color:#FFFFFF;
+text-shadow:0.7px 0.7px #FFF;
+text-shadow:-0.7px -0.7px #FFF;
+font-size-adjust:15px;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+	
+	
+.pe-thumbs{
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+	position: relative;
+	background: transparent url(../images/coffee.jpg) center center;
+	border: 5px solid #fff;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 20px 11px -11px #777;
+	-moz-box-shadow: 0 15px 8px -8px #777;
+	box-shadow: 0 10px 6px -6px #777;
+
+}
+.pe-thumbs:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,111,13,0.4);
+}
+.pe-thumbs li{
+	float:left;
+	position: relative;
+}
+.pe-thumbs li a,
+.pe-thumbs li a img{
+	display: block;
+	position: relative;
+}
+.pe-thumbs li a img{
+	width:100px;
+	opacity: 0.2;
+}
+.pe-thumbs li a div.pe-description{
+	width: 200px;
+	height: 100px;
+	background: rgba(111,76,51,0.8);
+	position: absolute;
+	top: 0px;
+	left: -200px;
+	color: white;
+	display: none;
+	z-index: 1001;
+	text-align: left;
+}
+.pe-description h3{
+	padding: 10px 10px 0px 10px;
+	line-height: 20px;
+	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	font-size: 22px;
+	margin: 0px;
+}
+.pe-description p{
+	padding: 10px 0px;
+	margin: 10px;
+	font-size: 11px;
+	font-style: italic;
+	border-top: 1px solid rgba(255,255,255,0.3);
+}
+section, footer{
+	display: block;
+}
+
+#rightcr
+{
+	text-align:right;
+	margin-left:400px;
+}
+#rightcr:hover
+{
+	
+}
+footer{
+	background-color: #111111;
+	bottom: 0;
+	box-shadow: 0 -1px 2px #111111;
+	height: 45px;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 100000;
+}
+
+footer h2{
+	color: #EEEEEE;
+	font-size: 14px;
+	font-weight: normal;
+	left: 50%;
+	margin-left: -400px;
+	padding: 13px 0 0;
+	position: absolute;
+	width: 1105px;
+}
+
+
+footer h2 i{
+	font-style:normal;
+	color:#888;
+}
+footer h2 b span{
+	text-shadow:3px #FFFFFF;
+	transition-property:text-shadow;
+	transition-duration:1s;
+	transition:ease-in;
+}
+footer h2 b span:hover
+{
+	text-shadow:3px #FFF;
+}
+footer a #flink
+{
+	color:#FFF;
+}

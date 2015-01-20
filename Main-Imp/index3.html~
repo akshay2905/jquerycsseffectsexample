@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title> The Funda Destination</title><link rel="icon" type="image/png" href="../CHM-Coffee-Mug.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Thumbnail Proximity Effect with jQuery and CSS3" />
+        <meta name="keywords" content="thumbnails, jquery, proximity, effect, css3, scale, mouse, hover" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="assets/css/page2/demo.css" />
+        <link rel="stylesheet" type="text/css" href="assets/css/page2/style2.css" />
+        <link rel="stylesheet" type="text/css" href="assets/css/Footer.css" />
+    </head>
+    <body id="page">
+        <div class="container">
+		
+			<header>
+				<h1>Life Ke Fundae with Himanshi</h1>
+				<h2>Three S's of my Life - Silence, Simplicity and Sincerity.</h2>
+			</header>
+			<section class="pe-container">
+			  <ul id="pe-thumbs" class="pe-thumbs">
+					<li><a href="#"><img src="assets/images/me1.jpg" /><div class="pe-description"><h3>Me</h3><p>Girl with pure innocence..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/surprise.jpg" /><div class="pe-description"><h3>Surprise</h3><p>Surprises sometimes can make our day..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/shame.jpg" /><div class="pe-description"><h3>Shame</h3><p>Realize that shame is not in falling,falling is temporary..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/disappointment1.jpg"  /><div class="pe-description"><h3>Disappointment</h3><p>No one ever lays one down without a feeling of disappointment.
+</p></div></a></li>
+					<li><a href="#"><img src="assets/images/passion.jpg"/><div class="pe-description"><h3>Passion</h3><p>Allow your passion to become a purpose..
+</p></div></a></li>
+					<li><a href="#"><img src="assets/images/trust.jpg" /><div class="pe-description"><h3>Trust</h3><p>Trust is the main root of every relation..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/love.jpg"/><div class="pe-description"><h3>Love</h3><p>The more you give, the more u get back.. that's d way love works..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/kindness.jpg" /><div class="pe-description"><h3>Kindness</h3><p>It is the act which blind can see & deaf can listen..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/jealousy.jpg" /><div class="pe-description"><h3>jealousy</h3><p>It is not love that is blind, but jealousy..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/hope.jpg"/><div class="pe-description"><h3>Hope</h3><p>Hope is the weapon to fight from every problem..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/happiness.jpg"/><div class="pe-description"><h3>Happiness</h3><p>The secret of happiness is to make others believe they are the cause of it...</p></div></a></li>
+					<li><a href="#"><img src="assets/images/friendship.jpg" /><div class="pe-description"><h3>Friendship</h3><p>True friendship multiplies the good in life and divides its evils...</p></div></a></li>
+					<li><a href="#"><img src="assets/images/fear.jpg" /><div class="pe-description"><h3>Fear</h3><p>Feel the fear and do it anyway...</p></div></a></li>
+					<li><a href="#"><img src="assets/images/dream.jpg" /><div class="pe-description"><h3>Dream</h3><p>It may be that those who do most, dream most..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/anger.jpg"/><div class="pe-description"><h3>Anger</h3><p></p></div></a></li>
+					<li><a href="#"><img src="assets/images/victory1.jpg" /><div class="pe-description"><h3>Victory</h3><p>Victory comes when you are confident enough..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/time1.jpg" /><div class="pe-description"><h3>Time</h3><p>It is precious,value it..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/stress1.jpg" /><div class="pe-description"><h3>Stress</h3><p>It does nothing ,it only makes you weak..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/shock1.jpg" /><div class="pe-description"><h3>Shock</h3><p>Be prepared for the shocks,it can happen any time..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/respect1.jpg" /><div class="pe-description"><h3>Respect</h3><p>It is never on demand,it s always earned
+..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/relaxation1.jpg" /><div class="pe-description"><h3>Relaxation</h3><p>It refreshes our mind ,body & soul..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/politeness1.jpg" /><div class="pe-description"><h3>Politeness</h3><p>It is an inexpensive way of making friends..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/patience1.jpg" /><div class="pe-description"><h3>Patience</h3><p>Patience is bitter but its fruits are sweet..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/loneliness1.jpg" /><div class="pe-description"><h3>Loneliness</h3><p>Loneliness is a feeling when no one cares.. </p></div></a></li>
+					<li><a href="#"><img src="assets/images/liveliness1.jpg" /><div class="pe-description"><h3>Liveliness</h3><p>Live life, laugh lasts, love forever..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/inspiration1.jpg" /><div class="pe-description"><h3>Inspiration</h3><p>We get inspired from our past the most..</p></div></a></li>
+					<li><a href="#"><img src="images/innocence1.jpg" /><div class="pe-description"><h3>Innocence</h3><p>Innocence dwells with Wisdom, but never with Ignorance..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/ignored1.jpg" /><div class="pe-description"><h3>Ignorance</h3><p>Ignorance and confidence are two things to succeed in life..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/hurt1.jpg" /><div class="pe-description"><h3>Hurt</h3><p>Forget what hurt you in the past but never forget what it taught you..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/hunger1.jpg" /><div class="pe-description"><h3>Hunger</h3><p>Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good...</p></div></a></li>
+					<li><a href="#"><img src="assets/images/greed1.jpg" /><div class="pe-description"><h3>Greed</h3><p>Greed not gives,it takes..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/fun1.jpg" /><div class="pe-description"><h3>Fun</h3><p>Fun is being with friends not in being alone..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/doubt1.jpg" /><div class="pe-description"><h3>Doubt</h3><p>Beliefs are what divide people. Doubt unites them..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/desire1.jpg" /><div class="pe-description"><h3>Desire</h3><p>Life ought to be a struggle of desire..</p></div></a></li>
+					<li><a href="#"><img src="assets/images/cry1.jpg" /><div class="pe-description"><h3>Cry</h3><p>If you laugh,the world laughs with you,if you weep ,you weep alone..
+</p></div></a></li>
+					<li><a href="#"><img src="assets/images/confidence1.jpg" /><div class="pe-description"><h3>Confidence</h3><p>As is our confidence, so is our capacity..</p></div></a></li>
+				</ul>
+			</section>
+        </div>
+        
+        <footer>
+	        <h2> A <b><span>Meri Kahani</span></b> 
+            Production Work <span id="rightcr"> 
+            <a id="flink" href="index.html">Home </a>| 
+            <a id="flink" href="index1.html">Akshay</a> | 
+            <a id="flink" href="index1.html">Yash </a>| 
+            <a id="flink" href="index3.html">Himanshi </a>| 
+            <a id="flink" href="index2.html">Amarpreet </a>| 
+            <a id="flink" href="about_us.html">About Us</a></span></h2>
+            <i><b></b></i> 
+        </footer>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.proximity.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				
+				var Photo	= (function() {
+					
+					var $list		= $('#pe-thumbs'),
+						listW		= $list.width(),
+						listL		= $list.offset().left,
+						$elems		= $list.find('img'),
+						$descrp		= $list.find('div.pe-description'),
+						settings	= {
+							maxScale	: 0.9,
+							maxOpacity	: 0.9,
+							minOpacity	: Number( $elems.css('opacity') )
+						},
+						init		= function() {
+							
+							settings.minScale = _getScaleVal();
+							_loadImages( function() {
+								
+								_calcDescrp();
+								_initEvents();
+							
+							});
+						
+						},
+						// Get Value of CSS Scale through JavaScript:
+						// http://css-tricks.com/get-value-of-css-rotation-through-javascript/
+						_getScaleVal= function() {
+						
+							var st = window.getComputedStyle($elems.get(0), null),
+								tr = st.getPropertyValue("-webkit-transform") ||
+									 st.getPropertyValue("-moz-transform") ||
+									 st.getPropertyValue("-ms-transform") ||
+									 st.getPropertyValue("-o-transform") ||
+									 st.getPropertyValue("transform") ||
+									 "fail...";
+
+							if( tr !== 'none' ) {	 
+
+								var values = tr.split('(')[1].split(')')[0].split(','),
+									a = values[0],
+									b = values[1],
+									c = values[2],
+									d = values[3];
+
+								return Math.sqrt( a * a + b * b );
+							
+							}
+							
+						},
+						_calcDescrp	= function() {
+							
+							$descrp.each( function(i) {
+							
+								var $el		= $(this),
+									$img	= $el.prev(),
+									img_w	= $img.width(),
+									img_h	= $img.height(),
+									img_n_w	= settings.maxScale * img_w,
+									img_n_h	= settings.maxScale * img_h,
+									space_t = ( img_n_h - img_h ) / 2,
+									space_l = ( img_n_w - img_w ) / 2;
+								
+								$el.data( 'space_l', space_l ).css({
+									height	: settings.maxScale * $el.height(),
+									top		: -space_t,
+									left	: img_n_w - space_l
+								});
+							
+							});
+						
+						},
+						_initEvents	= function() {
+						
+							$elems.on('proximity.Photo', { max: 170, throttle: 10, fireOutOfBounds : true }, function(event, proximity, distance) {
+								
+								var $el			= $(this),
+									$li			= $el.closest('li'),
+									$desc		= $el.next(),
+									scaleVal	= proximity * ( settings.maxScale - settings.minScale ) + settings.minScale,
+									scaleExp	= 'scale(' + scaleVal + ')';
+								
+								var $desc		= $el.next();
+								if( scaleVal === settings.maxScale ) {
+									
+									$li.css( 'z-index', 1000 );
+									
+									if( $desc.offset().left + $desc.width() > listL + listW ) {
+										
+										$desc.css( 'left', -$desc.width() - $desc.data( 'space_l' ) );
+									
+									}
+									
+									$desc.fadeIn( 800 );
+									
+								}	
+								else {
+									
+									$li.css( 'z-index', 1 );
+									
+									$desc.stop(true,true).hide();
+								
+								}	
+								
+								$el.css({
+									'-webkit-transform'	: scaleExp,
+									'-moz-transform'	: scaleExp,
+									'-o-transform'		: scaleExp,
+									'-ms-transform'		: scaleExp,
+									'transform'			: scaleExp,
+									'opacity'			: ( proximity * ( settings.maxOpacity - settings.minOpacity ) + settings.minOpacity )
+								});
+
+							});
+						
+						},
+						_loadImages	= function( callback ) {
+							
+							var loaded 	= 0,
+								total	= $elems.length;
+							
+							$elems.each( function(i) {
+								
+								var $el = $(this);
+								
+								$('<img/>').load( function() {
+									
+									++loaded;
+									if( loaded === total )
+										callback.call();
+									
+								}).attr( 'src', $el.attr('src') );
+							
+							});
+						
+						};
+					
+					return {
+						init	: init
+					};
+				
+				})();
+				
+				Photo.init();
+				
+			});
+		</script>
+    </body>
+</html>

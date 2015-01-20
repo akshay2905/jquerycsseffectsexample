@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+    <link rel="icon" type="image/png" href="../CHM-Coffee-Mug.png">
+
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title>The Funda Destination</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Thumbnail Proximity Effect with jQuery and CSS3" />
+        <meta name="keywords" content="thumbnails, jquery, proximity, effect, css3, scale, mouse, hover" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="assets/css/style2.css" />
+        <link rel="stylesheet" type="text/css" href="Footer.css" />
+    </head>
+    <body id="page">
+        <div class="container">
+			<!-- Codrops top bar -->
+		  <header>
+			<h1>Life ke <span>Fundae</span> With Akshay and Yash</h1>
+			<h2>A Funda a Day keeps Life Healthy Wealthy all the way</h2>
+			</header>
+		  <section class="pe-container">
+				<ul id="pe-thumbs" class="pe-thumbs">
+					
+                    <li><a href="#"><img  src="assets/images/thumbs2/ego.jpg" /><div class="pe-description"><h3>Ego</h3><p>Single Weapon to Destroy Yourself</p></div></a></li><li><a href="#"><img src="assets/images/thumbs2/brother.jpg"/><div class="pe-description"><h3>Brother</h3><p>Have a brother, before you get a Girlfriend!</p></div></a></li>
+					
+				  <li><a href="#"><img src="assets/images/thumbs2/Express.jpg"/><div class="pe-description"><h3>Express</h3><p>Learn to Express.Feels Light</p></div></a></li>
+					<li><a href="#"><img  src="assets/images/thumbs2/Killer Instinct.jpg" /><div class="pe-description"><h3>Killer Instinct</h3><p>Find Your Killer Instinct as soon as possible.</p></div></a></li>
+					<li><a href="#"><img  src="assets/images/thumbs2/love.jpg" /><div class="pe-description"><h3>Love</h3><p>Love Everybody! Even your Rivals.</p></div></a></li>
+					<li><a href="#"><img  src="assets/images/thumbs2/Passion.jpg" /><div class="pe-description"><h3>Passion</h3><p>Single force to live life</p></div></a></li>
+					<li><a href="#"><img  src="assets/images/thumbs2/the_one.jpg" /><div class="pe-description"><h3>The Close Ones</h3><p>For things may come and go, the close ones stays forever.Find Them!</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/23.jpg" /><div class="pe-description"><h3>Criticism </h3><p>Criticism works better than Google. You can learn a lot.</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/role_model.jpg" /><div class="pe-description"><h3>Role Model</h3><p>A challegne you want to become like one! </p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/disappoint.jpg" /><div class="pe-description"><h3>Never Regret</h3><p>Live life without any regrets.</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/Hobby.jpg" /><div class="pe-description"><h3>Explore</h3><p>Explore the life to fullest</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/Temper.jpg" /><div class="pe-description"><h3>Temper</h3><p>Control your Temper to control your life</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/Listen.jpg" /><div class="pe-description"><h3>Listen</h3><p>The more you listen the more you learn</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/loneliness.jpg" /><div class="pe-description"><h3>Never Live Alone</h3><p>The nature of the earth to live together.So Mix up with people</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/sleep.jpg" /><div class="pe-description"><h3>Sleep Well</h3><p>Simple Pleasures of - Sleep.</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/time.jpg" /><div class="pe-description"><h3>Time</h3><p>Value the time, Its is cheapest when you have it and expensive when you lose it</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/food.jpg" /><div class="pe-description"><h3>Khana Khazana</h3><p>No comments I am busy.</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/patience.jpg" /><div class="pe-description"><h3>Patience</h3><p></p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/group.jpg" /><div class="pe-description"><h3>Have Lots of Friends</h3><p>Make a new friend everyday.</p></div></a></li>
+				  <li><a href="#"><img src="assets/images/thumbs2/social.jpg" /><div class="pe-description"><h3>Interacte More</h3><p>Expand your Reach, Go Digital</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/conc.jpg" /><div class="pe-description"><h3>Perform</h3><p>Life is stage and your are the Superstar. </p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/leader.jpg" /><div class="pe-description"><h3>LBe the Leader</h3><p>Important aspect of life - Leadership </p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/mms.jpg" /><div class="pe-description"><h3>Endure</h3><p>No matter how much somebody is giving you a hard time, Endure as much as can</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/walk_alone.jpg" /><div class="pe-description"><h3>Be Strong</h3><p>Stay strong to stand alone.</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/work.jpg" /><div class="pe-description"><h3>Give your work Importance</h3><p></p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/sachin.jpg" /><div class="pe-description"><h3>Nothing is Permanent</h3><p>You may have to </p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/creativity.jpg" /><div class="pe-description"><h3>Have creative eye</h3><p>Be creative, make something new everyday</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/calm.png" /><div class="pe-description"><h3>Be Calm</h3><p>Be Calm and Baazinga!</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/paris.jpg" /><div class="pe-description"><h3>Ghumofiy</h3><p>Work Hard and Vacation Harder</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/hope.jpg" /><div class="pe-description"><h3>Hope</h3><p>The weakest but ever lasting Force.</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/20.jpg" /><div class="pe-description"><h3>spleenful sense</h3><p>Not that he was above the spleenful sense</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/write.jpg" /><div class="pe-description"><h3>Write UP</h3><p>Write your memories down, Later you may love reading it</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/killer.jpg" /><div class="pe-description"><h3>Positivity</h3><p>Stay Away from Negativity</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs/34.jpg" /><div class="pe-description"><h3>nature</h3><p>Against the sting of some in nature bad</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs/35.jpg" /><div class="pe-description"><h3>absolutely blest</h3><p>Yet who is he so absolutely blest</p></div></a></li>
+					<li><a href="#"><img src="assets/images/thumbs2/funda.jpg" /><div class="pe-description"><h3>Make New Fundae</h3><p>Make your own Fundae Everybody.</p></div></a></li>
+				</ul>
+			</section>
+        </div>
+        <footer>
+	        <h2> A <b><span>Meri Kahani</span></b> 
+            Production Work <span id="rightcr"> 
+            <a id="flink" href="index.html">Home </a>| 
+            <a id="flink" href="index1.html">Akshay</a> | 
+            <a id="flink" href="index1.html">Yash </a>| 
+            <a id="flink" href="index3.html">Himanshi </a>| 
+            <a id="flink" href="index2.html">Amarpreet </a>| 
+            <a id="flink" href="about_us.html">About Us</a></span></h2>
+            <i><b></b></i> 
+        </footer>
+	<script type="text/javascript" src="assets/js/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.proximity.js"></script>
+	<script type="text/javascript">
+			$(function() {
+				
+				var Photo	= (function() {
+					
+						// list of thumbs
+					var $list		= $('#pe-thumbs'),
+						// list's width and offset left.
+						// this will be used to know the position of the description container
+						listW		= $list.width(),
+						listL		= $list.offset().left,
+						// the images
+						$elems		= $list.find('img'),
+						// the description containers
+						$descrp		= $list.find('div.pe-description'),
+						// maxScale : maximum scale value the image will have
+						// minOpacity / maxOpacity : minimum (set in the CSS) and maximum values for the image's opacity
+						settings	= {
+							maxScale	: 1.3,
+							maxOpacity	: 0.9,
+							minOpacity	: Number( $elems.css('opacity') )
+						},
+						init		= function() {
+							
+							// minScale will be set in the CSS
+							settings.minScale = _getScaleVal() || 1;
+							// preload the images (thumbs)
+							_loadImages( function() {
+								
+								_calcDescrp();
+								_initEvents();
+							
+							});
+						
+						},
+						// Get Value of CSS Scale through JavaScript:
+						// http://css-tricks.com/get-value-of-css-rotation-through-javascript/
+						_getScaleVal= function() {
+						
+							var st = window.getComputedStyle($elems.get(0), null),
+								tr = st.getPropertyValue("-webkit-transform") ||
+									 st.getPropertyValue("-moz-transform") ||
+									 st.getPropertyValue("-ms-transform") ||
+									 st.getPropertyValue("-o-transform") ||
+									 st.getPropertyValue("transform") ||
+									 "fail...";
+
+							if( tr !== 'none' ) {	 
+
+								var values = tr.split('(')[1].split(')')[0].split(','),
+									a = values[0],
+									b = values[1],
+									c = values[2],
+									d = values[3];
+
+								return Math.sqrt( a * a + b * b );
+							
+							}
+							
+						},
+						// calculates the style values for the description containers,
+						// based on the settings variable
+						_calcDescrp	= function() {
+							
+							$descrp.each( function(i) {
+							
+								var $el		= $(this),
+									$img	= $el.prev(),
+									img_w	= $img.width(),
+									img_h	= $img.height(),
+									img_n_w	= settings.maxScale * img_w,
+									img_n_h	= settings.maxScale * img_h,
+									space_t = ( img_n_h - img_h ) / 2,
+									space_l = ( img_n_w - img_w ) / 2;
+								
+								$el.data( 'space_l', space_l ).css({
+									height	: settings.maxScale * $el.height(),
+									top		: -space_t,
+									left	: img_n_w - space_l
+								});
+							
+							});
+						
+						},
+						_initEvents	= function() {
+						
+							$elems.on('proximity.Photo', { max: 80, throttle: 10, fireOutOfBounds : true }, function(event, proximity, distance) {
+								
+								var $el			= $(this),
+									$li			= $el.closest('li'),
+									$desc		= $el.next(),
+									scaleVal	= proximity * ( settings.maxScale - settings.minScale ) + settings.minScale,
+									scaleExp	= 'scale(' + scaleVal + ')';
+								
+								// change the z-index of the element once it reaches the maximum scale value
+								// also, show the description container
+								if( scaleVal === settings.maxScale ) {
+									
+									$li.css( 'z-index', 1000 );
+									
+									if( $desc.offset().left + $desc.width() > listL + listW ) {
+										
+										$desc.css( 'left', -$desc.width() - $desc.data( 'space_l' ) );
+									
+									}
+									
+									$desc.fadeIn( 800 );
+									
+								}	
+								else {
+									
+									$li.css( 'z-index', 1 );
+								
+									$desc.stop(true,true).hide();
+								
+								}	
+								
+								$el.css({
+									'-webkit-transform'	: scaleExp,
+									'-moz-transform'	: scaleExp,
+									'-o-transform'		: scaleExp,
+									'-ms-transform'		: scaleExp,
+									'transform'			: scaleExp,
+									'opacity'			: ( proximity * ( settings.maxOpacity - settings.minOpacity ) + settings.minOpacity )
+								});
+
+							});
+						
+						},
+						_loadImages	= function( callback ) {
+							
+							var loaded 	= 0,
+								total	= $elems.length;
+							
+							$elems.each( function(i) {
+								
+								var $el = $(this);
+								
+								$('<img/>').load( function() {
+									
+									++loaded;
+									if( loaded === total )
+										callback.call();
+									
+								}).attr( 'src', $el.attr('src') );
+							
+							});
+						
+						};
+					
+					return {
+						init	: init
+					};
+				
+				})();
+				
+				Photo.init();
+				
+			});
+		</script>
+    </body>
+</html>
